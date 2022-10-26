@@ -1,4 +1,5 @@
-Very opinionated Korean diepcustom server
+<h2>Very opinionated Korean diepcustom server</h2>
+<p>Original README below</p>
 
 <br><br>
 <div align="center">
