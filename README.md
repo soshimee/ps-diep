@@ -1,3 +1,5 @@
+Very opinionated Korean diepcustom server
+
 <br><br>
 <div align="center">
 <img src="./icon.png" width="20%" />
